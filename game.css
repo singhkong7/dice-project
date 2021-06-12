@@ -1,0 +1,22 @@
+body
+{
+    background-color: darkslateblue;
+    text-align: center;
+}
+h1,h2
+{
+    color: dodgerblue;
+}
+#section
+{
+    padding: 7%, 15%;
+}
+.one
+{
+    display: inline;
+
+}
+.two
+{
+    display: inline;
+}
